@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SRIT_NSS_Reports</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nss"> About NSS</string>
+    <string name="vision"> Vision : </string>
+    <string name="Vdes">The vision is to build the youth with the mind and spirit to serve the society and work for the social uplift of the down-trodden masses of our nation as a movement.</string>
+    <string name="mission">Mission : </string>
+    <string name="mdes">The National Service Scheme has been functioning with the motto “NOT ME BUT YOU” in view of making the youth inspired in service of the people and hence NSS Aims Education through Community Service and Community Service through Education.</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login </string>
+    <string name="guest">Guest</string>
+    <string name="obj">Broad Objectives : </string>
+    <string name="objdes">=>Understand the community in which they work\n
+    =>Understand themselves in relation to their community\n
+    =>Identify the needs and problems of the community and involve them in problem solving process\n
+    =>Develop among themselves a sense of social and civic responsibility\n
+    =>Utilize their knowledge in finding practical solution to individual and community problems\n
+    =>Develop competence required for group living and sharing of responsibilities\n
+        =>Gain skills in mobilizing community participation\n</string>
+    <string name="Team">Team Members</string>
+    <string name="Teamdes">
+        1.  Prof. S. Vasundra, NSS Co-Ordinator, JNTUA, Ananthapuramu\n
+
+2. Dr. G. BalaKrishna, Principal, SRIT College, Ananthapuramu\n
+
+3. All HODs of SRIT College, Ananthapuramu\n
+
+4. Mr.G.Chinna Pullaiah, NSS Program Officer, SRIT College,Ananthapuramu\n
+
+5. Mr. A. Erri Swamy, NSS Program Officer, SRIT College, Ananthapuramu\n
+
+6. NSS voluntaries of SRIT College, Ananthapuramu\n</string>
+</resources>

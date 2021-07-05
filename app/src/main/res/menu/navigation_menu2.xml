@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/existed_reports"
+        android:title="Existed Reports"
+        android:icon="@drawable/ic_baseline_file_copy_24">
+
+    </item>
+    <item
+        android:id="@+id/newsletters"
+        android:title="Newsletters"
+        android:icon="@drawable/ic_baseline_file_copy_24">
+
+    </item>
+    <item
+        android:id="@+id/graphs"
+        android:title="Graphs"
+        android:icon="@drawable/ic_baseline_graphic_eq_24">
+
+    </item>
+
+</menu>
